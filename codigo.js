@@ -35,7 +35,7 @@ let moverGirasol = setInterval(mover, 1000)
 let girasolVivo = true
 let cantidad = 0
 
-alert("Debes hayar el girasol correcto en el tiempo estimado si no logras con tus 3 vidas fracasaras en la misión")
+alert("Debes hallar el girasol correcto en el tiempo estimado si no logras con tus 3 vidas fracasaras en la misión")
 
 function mover() {
     posX = Math.round(Math.random() * 500) + "px"
@@ -108,7 +108,7 @@ function actualizar() {
     } else {
         clearInterval(actualizarTiempo)
         clearInterval(moverGirasol)
-        alert("¡SE ACABO EL TIEMPO! No hayaste el GIRASOL correcto.")
+        alert("¡SE ACABO EL TIEMPO! No hallaste el GIRASOL correcto.")
     }
 }
 
