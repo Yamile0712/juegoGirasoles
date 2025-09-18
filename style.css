@@ -1,0 +1,136 @@
+body {
+    background-color: rgba(16, 107, 8, 0.637);
+}
+
+.container {
+    background-image: url(./multimedia/FONDO...jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    position: relative;
+    border: 5px solid black;
+    border-radius: 20px;
+    justify-content: center;
+}
+
+.Titulo {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.555);
+    text-align: center;
+    color: rgb(255, 175, 2);
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.Texto {
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 175, 2);
+    text-shadow: 2px 2px 4px #000000;
+    height: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.nose{
+    position: absolute;
+   left: 20px;
+    background-color: rgba(0, 0, 0, 0.555);
+    width: 270px;
+    height: 210px;
+    border:5px solid rgba(7, 80, 23, 0.76);
+    border-radius: 15px;
+}
+
+.girasol {
+    width: 90px;
+    position: absolute;
+}
+
+.Gir1 {
+    top: 100px;
+}
+
+.Gir2 {
+    top: 120px
+}
+
+.Gir3 {
+    top: 140px;
+}
+
+.Gir4 {
+    top: 130px;
+}
+
+.Gir5 {
+    top: 150px;
+}
+
+.Gir6 {
+    top: 160px;
+}
+
+.Gir7 {
+    top: 170px;
+}
+
+.Gir8 {
+    top: 180px;
+}
+
+.Gir9 {
+    top: 190px;
+}
+
+.Gir10 {
+    top: 110px;
+}
+
+.Gir11 {
+    top: 100px;
+}
+
+.Gir12 {
+    top: 120px
+}
+
+.Gir13 {
+    top: 140px;
+}
+
+.Gir14 {
+    top: 130px;
+}
+
+.Gir15 {
+    top: 150px;
+}
+
+.Gir15 {
+    top: 160px;
+}
+
+.Gir16 {
+    top: 170px;
+}
+
+.Gir17 {
+    top: 180px;
+}
+
+.Gir18 {
+    top: 190px;
+}
+
+.win {
+    padding: 100px;
+    border-radius: 20px;
+    background-color: blueviolet;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    display: none;
+}
